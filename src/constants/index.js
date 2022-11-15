@@ -25,21 +25,21 @@ export const features = [
     icon: star,
     title: "Collection Generator",
     content:
-      "We provide the fastest NFT generator in the market. You can generate 100 unique images for free. We charge with a fixed price of $25 per generation for collections above 100.",
+      "We provide the fastest NFT generator in the market. You can generate 100 unique images for free.",
   },
   {
     id: "feature-2",
     icon: shield,
     title: "Minting Website Hosting",
     content:
-      "Create a minting website by a click of a button. You can host your own minting website for free. Features including prebuilt templates, addons, domain, and more. Unlock special features by upgrading to premium for $15 USD.",
+      "Create a minting website by a click of a button. You can host your own minting website for free.",
   },
   {
     id: "feature-3",
     icon: send,
     title: "Metadata Utilities",
     content:
-      "Create a minting website by a click of a button. You can host your own minting website for free. Features including prebuilt templates, addons, domain, and more. Unlock special features by upgrading to premium for $15 USD.",
+      "This allows bulk loading of metadata (properties and select lists) into data dictionary schemas.",
   },
 ];
 
@@ -55,17 +55,17 @@ export const feedback = [
   {
     id: "feedback-2",
     content:
-      "Money makes your life easier. If you're lucky to have it, you're lucky.",
-    name: "Steve Mark",
-    title: "Founder & Leader",
+      "Revolutionary product, first Indian blockchain application to build on cross-chain technology.",
+    name: "Santosh Yellajosula",
+    title: "Founder, Autonomy",
     img: people02,
   },
   {
     id: "feedback-3",
     content:
-      "It is usually people in the money business, finance, and international trade that are really rich.",
-    name: "Kenn Gallagher",
-    title: "Founder & Leader",
+      "Potential idea that polygon collaboration happened.",
+    name: "Thulasiram Peddiboina",
+    title: "Solutions Lead, Polygon",
     img: people03,
   },
 ];

@@ -29,7 +29,6 @@ const Business = () =>  (
         From small to large scale businesses we manage their NFT's with 
       </p>
 
-      <Button styles={`mt-10`} />
     </div>
 
     <div className={`${layout.sectionImg} flex-col`}>
